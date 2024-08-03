@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.5">
   <diagram name="第 1 页" id="zXMqM6brCatOP6lWQaTj">
-    <mxGraphModel dx="2940" dy="2181" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2199" dy="1778" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35905,7 +35905,7 @@
         <mxCell id="Et15URfuXUe40IgZoOrX-11976" value="将 窗口大小为 2，&lt;div&gt;映射为 16维 (升高维度)&lt;/div&gt;&lt;div&gt;&lt;br&gt;即 形状为(B,C,H,W) 的图像&lt;/div&gt;&lt;div&gt;被表示为&amp;nbsp; 总的窗口数 与 一个窗口表示的维度(dim)&lt;/div&gt;&lt;div&gt;&lt;br&gt;窗口在所有的通道进行滑动&lt;br&gt;总的窗口数：&lt;br&gt;$$ B * \frac{H}{window_{size}} *\frac{W}{window_{size}} $$&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;spacing=6;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-153" y="352" width="366.29" height="215" as="geometry" />
         </mxCell>
-        <mxCell id="Et15URfuXUe40IgZoOrX-11981" value="图像映射为：&lt;div&gt;(B*num_window, &lt;br&gt;window_size * window_size,&lt;/div&gt;&lt;div&gt;dim)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=6;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="Et15URfuXUe40IgZoOrX-11981" value="图像映射为：&lt;div&gt;(B*num_window, &lt;br&gt;window_size * window_size,&lt;/div&gt;&lt;div&gt;dim)&lt;br&gt;&lt;br&gt;即 (2*4, 4, 16)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=6;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="203" y="542" width="209.86" height="118" as="geometry" />
         </mxCell>
         <mxCell id="Et15URfuXUe40IgZoOrX-13529" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" connectable="0" parent="1">
@@ -38983,6 +38983,33 @@
         </mxCell>
         <mxCell id="Et15URfuXUe40IgZoOrX-13875" value="Linear(dim, dim*3)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=6;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="375" y="352" width="156" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="Et15URfuXUe40IgZoOrX-13876" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="854" y="147" as="sourcePoint" />
+            <mxPoint x="1005" y="-19" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Et15URfuXUe40IgZoOrX-13878" value="Q" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=6;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="906" y="76" width="61" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="Et15URfuXUe40IgZoOrX-13879" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="876" y="388" as="sourcePoint" />
+            <mxPoint x="1014" y="388" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Et15URfuXUe40IgZoOrX-13880" value="K" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=6;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="912" y="391" width="61" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="Et15URfuXUe40IgZoOrX-13881" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="834" y="531" as="sourcePoint" />
+            <mxPoint x="1004" y="773" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Et15URfuXUe40IgZoOrX-13882" value="V" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=6;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="875" y="681" width="61" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

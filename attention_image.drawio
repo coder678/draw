@@ -10614,7 +10614,7 @@
           <mxGeometry x="2558" y="-188" width="368" height="112" as="geometry" />
         </mxCell>
         <mxCell id="Et15URfuXUe40IgZoOrX-15638" value="" style="group" vertex="1" connectable="0" parent="Et15URfuXUe40IgZoOrX-15637">
-          <mxGeometry width="67" height="112" as="geometry" />
+          <mxGeometry x="134" width="67" height="112" as="geometry" />
         </mxCell>
         <mxCell id="Et15URfuXUe40IgZoOrX-15639" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="Et15URfuXUe40IgZoOrX-15638">
           <mxGeometry width="67" height="25" as="geometry" />
@@ -10724,7 +10724,7 @@
           <mxGeometry x="98" y="-2" width="270" height="112" as="geometry" />
         </mxCell>
         <mxCell id="Et15URfuXUe40IgZoOrX-15664" value="" style="group" vertex="1" connectable="0" parent="Et15URfuXUe40IgZoOrX-15663">
-          <mxGeometry width="67" height="112" as="geometry" />
+          <mxGeometry x="134" width="67" height="112" as="geometry" />
         </mxCell>
         <mxCell id="Et15URfuXUe40IgZoOrX-15665" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="Et15URfuXUe40IgZoOrX-15664">
           <mxGeometry width="67" height="25" as="geometry" />
@@ -10831,7 +10831,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Et15URfuXUe40IgZoOrX-15791" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2359" y="-192" width="371" height="262" as="geometry" />
+          <mxGeometry x="2493" y="-192" width="371" height="262" as="geometry" />
         </mxCell>
         <mxCell id="Et15URfuXUe40IgZoOrX-15464" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" connectable="0" parent="Et15URfuXUe40IgZoOrX-15791">
           <mxGeometry width="270" height="112" as="geometry" />
@@ -11491,7 +11491,7 @@
           <mxGeometry x="2548" y="217" width="368" height="112" as="geometry" />
         </mxCell>
         <mxCell id="Et15URfuXUe40IgZoOrX-15948" value="" style="group" vertex="1" connectable="0" parent="Et15URfuXUe40IgZoOrX-15947">
-          <mxGeometry width="67" height="112" as="geometry" />
+          <mxGeometry x="151" y="1" width="67" height="112" as="geometry" />
         </mxCell>
         <mxCell id="Et15URfuXUe40IgZoOrX-15949" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="Et15URfuXUe40IgZoOrX-15948">
           <mxGeometry width="67" height="25" as="geometry" />
@@ -11601,7 +11601,7 @@
           <mxGeometry x="98" y="-2" width="270" height="112" as="geometry" />
         </mxCell>
         <mxCell id="Et15URfuXUe40IgZoOrX-15974" value="" style="group" vertex="1" connectable="0" parent="Et15URfuXUe40IgZoOrX-15973">
-          <mxGeometry width="67" height="112" as="geometry" />
+          <mxGeometry x="151" y="1" width="67" height="112" as="geometry" />
         </mxCell>
         <mxCell id="Et15URfuXUe40IgZoOrX-15975" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="Et15URfuXUe40IgZoOrX-15974">
           <mxGeometry width="67" height="25" as="geometry" />
@@ -11708,7 +11708,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Et15URfuXUe40IgZoOrX-15999" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2349" y="213" width="371" height="262" as="geometry" />
+          <mxGeometry x="2500" y="214" width="371" height="262" as="geometry" />
         </mxCell>
         <mxCell id="Et15URfuXUe40IgZoOrX-16000" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" connectable="0" parent="Et15URfuXUe40IgZoOrX-15999">
           <mxGeometry width="270" height="112" as="geometry" />
@@ -12368,7 +12368,7 @@
           <mxGeometry x="2539" y="640" width="368" height="112" as="geometry" />
         </mxCell>
         <mxCell id="Et15URfuXUe40IgZoOrX-16155" value="" style="group" vertex="1" connectable="0" parent="Et15URfuXUe40IgZoOrX-16154">
-          <mxGeometry width="67" height="112" as="geometry" />
+          <mxGeometry x="151" y="1" width="67" height="112" as="geometry" />
         </mxCell>
         <mxCell id="Et15URfuXUe40IgZoOrX-16156" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="Et15URfuXUe40IgZoOrX-16155">
           <mxGeometry width="67" height="25" as="geometry" />
@@ -12478,7 +12478,7 @@
           <mxGeometry x="98" y="-2" width="270" height="112" as="geometry" />
         </mxCell>
         <mxCell id="Et15URfuXUe40IgZoOrX-16181" value="" style="group" vertex="1" connectable="0" parent="Et15URfuXUe40IgZoOrX-16180">
-          <mxGeometry width="67" height="112" as="geometry" />
+          <mxGeometry x="151" y="1" width="67" height="112" as="geometry" />
         </mxCell>
         <mxCell id="Et15URfuXUe40IgZoOrX-16182" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="Et15URfuXUe40IgZoOrX-16181">
           <mxGeometry width="67" height="25" as="geometry" />
@@ -12585,7 +12585,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Et15URfuXUe40IgZoOrX-16206" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2340" y="636" width="371" height="262" as="geometry" />
+          <mxGeometry x="2491" y="637" width="371" height="262" as="geometry" />
         </mxCell>
         <mxCell id="Et15URfuXUe40IgZoOrX-16207" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" connectable="0" parent="Et15URfuXUe40IgZoOrX-16206">
           <mxGeometry width="270" height="112" as="geometry" />
@@ -16370,20 +16370,23 @@
         <mxCell id="Et15URfuXUe40IgZoOrX-17448" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;图像当前形状为&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(B*num_window,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;window_size * window_size, 3 *&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;dim)&lt;br&gt;进行 resize 得到 (3,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ;&quot;&gt;B*num_window,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ;&quot;&gt;window_size * window_size, dim)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;即 Q、K、K 为 qkv[0]&amp;nbsp; qkv[1]&amp;nbsp; qkv[2]&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=6;fontSize=15;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="761" y="476" width="743" height="76" as="geometry" />
         </mxCell>
-        <mxCell id="Et15URfuXUe40IgZoOrX-17449" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;图像当前形状为&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(B*num_window,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;window_size * window_size, 3 *&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;dim)&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=6;fontSize=15;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="Et15URfuXUe40IgZoOrX-17449" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;图像当前形状为&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(B*num_window,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;window_size * window_size, &lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;dim)&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=6;fontSize=15;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="1755.5" y="40" width="507" height="76" as="geometry" />
         </mxCell>
-        <mxCell id="Et15URfuXUe40IgZoOrX-17450" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;图像当前形状为&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(B*num_window,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;window_size * window_size, 3 *&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;dim)&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=6;fontSize=15;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="Et15URfuXUe40IgZoOrX-17450" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;图像当前形状为&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(B*num_window,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;window_size * window_size, &lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;dim)&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=6;fontSize=15;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="1760" y="445.5" width="507" height="76" as="geometry" />
         </mxCell>
-        <mxCell id="Et15URfuXUe40IgZoOrX-17451" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;图像当前形状为&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(B*num_window,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;window_size * window_size, 3 *&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;dim)&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=6;fontSize=15;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="Et15URfuXUe40IgZoOrX-17451" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;图像当前形状为&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(B*num_window,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;window_size * window_size, &lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;dim)&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=6;fontSize=15;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="1773" y="885" width="507" height="76" as="geometry" />
         </mxCell>
         <mxCell id="Et15URfuXUe40IgZoOrX-17452" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2149" y="-67" as="sourcePoint" />
-            <mxPoint x="2329" y="-71" as="targetPoint" />
+            <mxPoint x="2481" y="-67" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Et15URfuXUe40IgZoOrX-17453" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;进行分头操作，&lt;/font&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;将 dim 划分为 head 组，即&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; font-size: 16px; background-color: initial;&quot;&gt;(B*num_window,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; font-size: 16px; background-color: initial;&quot;&gt;window_size * window_size,&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; font-size: 16px; background-color: initial;&quot;&gt;head, dim / head)&lt;/span&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2117" y="-147" width="392" height="76" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

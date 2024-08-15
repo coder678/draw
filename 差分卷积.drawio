@@ -789,6 +789,9 @@
         <mxCell id="Wj2HIrTD8QQXyb-fr5Uf-9" value="&lt;font color=&quot;#ff3333&quot;&gt;等价核运算的过程&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1761" y="332.5" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Wj2HIrTD8QQXyb-fr5Uf-11" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;等价卷积核计算过程&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="523" y="159" width="207" height="59" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

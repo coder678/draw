@@ -2501,7 +2501,7 @@
             <mxPoint x="120.6" y="3654.9" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DUR3caU7JxNcSk4MnxNK-392" value="IR Features Fusion Branch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DUR3caU7JxNcSk4MnxNK-392" value="IR Features Fusion Branch" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#F16B6F;" vertex="1" parent="1">
           <mxGeometry x="118.78999999999999" y="3640" width="166.21" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DUR3caU7JxNcSk4MnxNK-393" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#F16B6F;strokeWidth=2;" edge="1" parent="1">
@@ -2516,7 +2516,7 @@
             <mxPoint x="120.6" y="3710.9" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DUR3caU7JxNcSk4MnxNK-395" value="VI Features Fusion Branch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DUR3caU7JxNcSk4MnxNK-395" value="VI Features Fusion Branch" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#519D9E;" vertex="1" parent="1">
           <mxGeometry x="118.78999999999999" y="3696" width="166.21" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DUR3caU7JxNcSk4MnxNK-396" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#519D9E;strokeWidth=2;" edge="1" parent="1">

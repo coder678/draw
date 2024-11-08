@@ -6,8 +6,8 @@
         <mxCell id="1" parent="0" />
         <mxCell id="DUR3caU7JxNcSk4MnxNK-766" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1080" y="4299" as="sourcePoint" />
-            <mxPoint x="1530" y="4299" as="targetPoint" />
+            <mxPoint x="1330" y="4306" as="sourcePoint" />
+            <mxPoint x="1780" y="4306" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DUR3caU7JxNcSk4MnxNK-758" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -3325,29 +3325,38 @@
           <mxGeometry x="1090" y="3773" width="642.42" height="227" as="geometry" />
         </mxCell>
         <mxCell id="DUR3caU7JxNcSk4MnxNK-762" value="HAB" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="4264" width="65" height="65" as="geometry" />
+          <mxGeometry x="1390" y="4271" width="65" height="65" as="geometry" />
         </mxCell>
         <mxCell id="DUR3caU7JxNcSk4MnxNK-763" value="HAB" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="4264" width="65" height="65" as="geometry" />
+          <mxGeometry x="1480" y="4271" width="65" height="65" as="geometry" />
         </mxCell>
         <mxCell id="DUR3caU7JxNcSk4MnxNK-764" value="OCAB" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="4264" width="65" height="65" as="geometry" />
+          <mxGeometry x="1570" y="4271" width="65" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="DUR3caU7JxNcSk4MnxNK-765" value="conv&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;textDirection=vertical-lr;verticalAlign=middle;spacing=0;spacingLeft=15;" vertex="1" parent="1">
-          <mxGeometry x="1410" y="4266" width="20" height="63" as="geometry" />
+        <mxCell id="DUR3caU7JxNcSk4MnxNK-765" value="conv&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;textDirection=vertical-lr;verticalAlign=middle;spacing=0;spacingLeft=14;flipH=1;imageAlign=center;imageVerticalAlign=top;flipV=1;labelPosition=center;verticalLabelPosition=middle;align=center;direction=east;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="1660" y="4273" width="20" height="63" as="geometry" />
         </mxCell>
         <mxCell id="DUR3caU7JxNcSk4MnxNK-767" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.summing_function;" vertex="1" parent="1">
-          <mxGeometry x="1447" y="4294" width="10" height="10" as="geometry" />
+          <mxGeometry x="1697" y="4301" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="DUR3caU7JxNcSk4MnxNK-769" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="DUR3caU7JxNcSk4MnxNK-767">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1117" y="4299" as="sourcePoint" />
-            <mxPoint x="1515" y="4294" as="targetPoint" />
+            <mxPoint x="1367" y="4306" as="sourcePoint" />
+            <mxPoint x="1765" y="4301" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1117" y="4240" />
-              <mxPoint x="1452" y="4240" />
+              <mxPoint x="1367" y="4247" />
+              <mxPoint x="1702" y="4247" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="DUR3caU7JxNcSk4MnxNK-771" value="HAB" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="4227" width="65" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="DUR3caU7JxNcSk4MnxNK-772" value="HAB" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="4220" width="65" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="DUR3caU7JxNcSk4MnxNK-773" value="Layernorm" style="whiteSpace=wrap;html=1;textDirection=vertical-rl;verticalAlign=middle;spacing=0;spacingLeft=0;flipH=1;imageAlign=center;imageVerticalAlign=top;flipV=1;labelPosition=center;verticalLabelPosition=middle;align=center;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="1262.5" y="4407" width="20" height="63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

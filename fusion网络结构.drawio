@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
   <diagram name="第 1 页" id="Jaq1JRCkrECC7zMK7oo5">
-    <mxGraphModel dx="3414" dy="897" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="3121" dy="748" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4100,6 +4100,47 @@
         </mxCell>
         <mxCell id="seiQ81smM7TOU4JzHV6t-189" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=90;fillColor=#F16B6F;strokeColor=none;size=19;gradientColor=#519D9E;gradientDirection=east;" vertex="1" parent="1">
           <mxGeometry x="1337.38" y="2663.5" width="67.68" height="25.64" as="geometry" />
+        </mxCell>
+        <mxCell id="seiQ81smM7TOU4JzHV6t-191" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="669" y="3119" width="55.72000000000001" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="seiQ81smM7TOU4JzHV6t-192" value="" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;" vertex="1" parent="seiQ81smM7TOU4JzHV6t-191">
+          <mxGeometry x="14" y="2" width="41.61" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="seiQ81smM7TOU4JzHV6t-193" value="&lt;div&gt;&lt;div style=&quot;font-size: 5px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Concat &amp;amp; Conv&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="seiQ81smM7TOU4JzHV6t-191">
+          <mxGeometry x="14" width="41.72" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="seiQ81smM7TOU4JzHV6t-197" value="&lt;div&gt;&lt;div style=&quot;font-size: 5px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Concat &amp;amp; Conv(64,32,3,1)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="731.63" y="3118" width="63" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="seiQ81smM7TOU4JzHV6t-198" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.summing_function;" vertex="1" parent="1">
+          <mxGeometry x="714.72" y="3135" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="seiQ81smM7TOU4JzHV6t-199" value="&lt;div style=&quot;font-size: 5px;&quot;&gt;Add&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="736.15" y="3133" width="63" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="seiQ81smM7TOU4JzHV6t-201" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="714.72" y="3150.62" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="seiQ81smM7TOU4JzHV6t-202" value="" style="ellipse;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;fillColor=#ffffff" vertex="1" parent="seiQ81smM7TOU4JzHV6t-201">
+          <mxGeometry width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="seiQ81smM7TOU4JzHV6t-203" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;curved=1;" edge="1" parent="seiQ81smM7TOU4JzHV6t-201" source="seiQ81smM7TOU4JzHV6t-202" target="seiQ81smM7TOU4JzHV6t-202">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5" y="8" />
+              <mxPoint x="5" y="2" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="seiQ81smM7TOU4JzHV6t-204" value="&lt;div style=&quot;font-size: 5px;&quot;&gt;Softmax&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="736.15" y="3148" width="63" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="seiQ81smM7TOU4JzHV6t-205" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.or;" vertex="1" parent="1">
+          <mxGeometry x="715" y="3167" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="seiQ81smM7TOU4JzHV6t-207" value="&lt;div style=&quot;font-size: 5px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="736.15" y="3165" width="63" height="12" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -37,7 +37,7 @@
             <mxPoint x="356.55259999999987" y="52.725000000000364" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nNs6q8ValGfdwR1YYEEG-8" value="" style="endArrow=classic;html=1;rounded=0;endSize=1;strokeColor=#736CA8;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.987;entryY=0.811;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="nNs6q8ValGfdwR1YYEEG-8" value="" style="endArrow=classic;html=1;rounded=0;endSize=1;strokeColor=#FFBE98;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.987;entryY=0.811;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="342.87" y="75.71500000000015" as="sourcePoint" />
             <mxPoint x="356.55259999999987" y="75.71500000000015" as="targetPoint" />
@@ -1264,10 +1264,10 @@
           <mxGeometry x="329.6600000000001" y="310.52000000000044" width="44.75" height="18.64" as="geometry" />
         </mxCell>
         <mxCell id="nNs6q8ValGfdwR1YYEEG-298" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 6px;&quot;&gt;VI Features Fusion Branch&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1A1A1A;fontSize=6;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="579.8499999999999" y="537" width="89" height="19" as="geometry" />
+          <mxGeometry x="579.8499999999999" y="535.28" width="89" height="19" as="geometry" />
         </mxCell>
         <mxCell id="nNs6q8ValGfdwR1YYEEG-299" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;IR Features Fusion Branch&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1A1A1A;fontSize=6;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="592.8" y="361.0000000000003" width="94" height="12" as="geometry" />
+          <mxGeometry x="583.3499999999999" y="362.7400000000003" width="94" height="12" as="geometry" />
         </mxCell>
         <mxCell id="nNs6q8ValGfdwR1YYEEG-300" value="&lt;div&gt;&lt;div style=&quot;font-size: 5px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Split &amp;amp; Concat &amp;amp; Conv(64,32,3,1)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="753.83" y="107.09000000000015" width="77.37" height="12" as="geometry" />

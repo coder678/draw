@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="第 1 页" id="-qTmC3xogP_isooCmMBV">
-    <mxGraphModel dx="459" dy="668" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="664" dy="788" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2024,16 +2024,16 @@
         <mxCell id="XnUDoisnFJkidMaOOiQw-81" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;IR Features Fusion Branch&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1A1A1A;fontSize=6;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="600.0449999999998" y="990" width="94" height="12" as="geometry" />
         </mxCell>
-        <mxCell id="XnUDoisnFJkidMaOOiQw-82" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="745.355" y="1017.4899999999998" width="11.204999999999881" height="10.00000000000017" as="geometry" />
+        <mxCell id="XnUDoisnFJkidMaOOiQw-82" value="" style="group;align=center;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="743.345" y="1017.4899999999998" width="11.204999999999881" height="10.00000000000017" as="geometry" />
         </mxCell>
-        <mxCell id="XnUDoisnFJkidMaOOiQw-83" value="" style="group" vertex="1" connectable="0" parent="XnUDoisnFJkidMaOOiQw-82">
-          <mxGeometry x="-1.1950000000001637" width="12.400000000000045" height="10.00000000000017" as="geometry" />
+        <mxCell id="XnUDoisnFJkidMaOOiQw-83" value="" style="group;align=center;" vertex="1" connectable="0" parent="XnUDoisnFJkidMaOOiQw-82">
+          <mxGeometry x="-0.35500000000016374" width="12.400000000000045" height="10.00000000000017" as="geometry" />
         </mxCell>
-        <mxCell id="XnUDoisnFJkidMaOOiQw-84" value="" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;textShadow=1;" vertex="1" parent="XnUDoisnFJkidMaOOiQw-83">
+        <mxCell id="XnUDoisnFJkidMaOOiQw-84" value="" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;textShadow=1;align=center;" vertex="1" parent="XnUDoisnFJkidMaOOiQw-83">
           <mxGeometry x="1.1950000000001637" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="XnUDoisnFJkidMaOOiQw-85" value="" style="group" vertex="1" connectable="0" parent="XnUDoisnFJkidMaOOiQw-83">
+        <mxCell id="XnUDoisnFJkidMaOOiQw-85" value="" style="group;align=center;" vertex="1" connectable="0" parent="XnUDoisnFJkidMaOOiQw-83">
           <mxGeometry y="1.7053025658242404e-13" width="12.400000000000045" height="10" as="geometry" />
         </mxCell>
         <mxCell id="XnUDoisnFJkidMaOOiQw-86" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;T&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textShadow=1;fontStyle=1" vertex="1" parent="XnUDoisnFJkidMaOOiQw-85">
